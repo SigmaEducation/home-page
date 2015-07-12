@@ -1,3 +1,3 @@
 # home-page
 
-This edit should be automatically merged.
+This edit might be automatically merged.
